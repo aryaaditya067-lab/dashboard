@@ -1,0 +1,6 @@
+{
+  "name": "Rebuild — Palampur",
+  "description": "An immersive 3D educational platform where student learning restores a Himalayan village and empowers teachers with real-time misconception analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
